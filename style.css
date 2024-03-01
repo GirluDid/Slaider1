@@ -217,19 +217,19 @@ body {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/china.jpg");
+  background-image: url("https://th.bing.com/th/id/R.05009686c3e5566b5eb41a7f63aa740c?rik=GEN5GSh%2f7ZGz4Q&pid=ImgRaw&r=0");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="usa"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/usa.jpg");
+  background-image: url("f6746ed982b01dc795b9cf38d8e2b8be.jpg (800×906) (pinimg.com)");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="peru"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/peru.jpg");
+  background-image: url("OIP.ePHvY1yDpGkHZXYfHZXctQHaFu (474×366) (bing.com)");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
